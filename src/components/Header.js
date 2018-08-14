@@ -1,6 +1,7 @@
 import React from "react";
 import styled, { css } from "react-emotion";
 import { Link } from "react-router-dom";
+import { FormattedMessage } from "react-intl";
 
 const Header = () => (
   <MainHeaderDiv>
@@ -12,7 +13,9 @@ const Header = () => (
 
     <Menu>
       <li>
-        <Link to={`/`}>Home</Link>
+        <Link to={`/`}>
+          <FormattedMessage id="Menu.home" defaultMessage="Home" />
+        </Link>
       </li>
       <li>
         <Link to={`/about`}>About</Link>
