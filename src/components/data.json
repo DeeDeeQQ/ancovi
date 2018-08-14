@@ -1,0 +1,12 @@
+{
+  "en": {
+    "Footer.about": "Home",
+    "Menu.home": "Home",
+    "Menu.about": "About"
+  },
+  "ar": {
+    "Footer.about": "الرئيسية",
+    "Menu.home": "الرئيسية",
+    "Menu.about": "حول"
+  }
+}

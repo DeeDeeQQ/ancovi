@@ -18,7 +18,9 @@ const Header = () => (
         </Link>
       </li>
       <li>
-        <Link to={`/about`}>About</Link>
+        <Link to={`/about`}>
+          <FormattedMessage id="Menu.about" defaultMessage="About" />
+        </Link>
       </li>
       <li>
         <Link to={`/services`}>Services</Link>
