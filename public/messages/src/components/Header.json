@@ -6,5 +6,37 @@
   {
     "id": "Menu.about",
     "defaultMessage": "About"
+  },
+  {
+    "id": "Menu.services",
+    "defaultMessage": "Services"
+  },
+  {
+    "id": "Menu.srm",
+    "defaultMessage": "SECURITY & RISK MANAGEMENT"
+  },
+  {
+    "id": "Menu.dps",
+    "defaultMessage": "DEFENSE PRODUCTS & SERVICES"
+  },
+  {
+    "id": "Menu.bes",
+    "defaultMessage": "BUSINESS ENABLEMENT SERVICES"
+  },
+  {
+    "id": "Menu.tcb",
+    "defaultMessage": "TRAINING & CAPACITY BUILDING"
+  },
+  {
+    "id": "Menu.jmgt",
+    "defaultMessage": "JOURNEY MANAGEMENT & GLOBAL TRACKING"
+  },
+  {
+    "id": "Menu.afc",
+    "defaultMessage": "AERIAL FIREFLIGHTING CAPABILITY"
+  },
+  {
+    "id": "Menu.contact",
+    "defaultMessage": "Contacts"
   }
 ]
