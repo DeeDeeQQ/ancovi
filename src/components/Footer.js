@@ -4,7 +4,7 @@ import { FormattedMessage } from "react-intl";
 
 const Footer = () => (
   <MainFooterDiv>
-    <FormattedMessage id="Footer.about" defaultMessage="Home" />
+    <FormattedMessage id="Footer.about" defaultMessage="Footer" />
   </MainFooterDiv>
 );
 
