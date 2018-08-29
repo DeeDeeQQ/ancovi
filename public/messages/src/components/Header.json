@@ -5,7 +5,7 @@
   },
   {
     "id": "Menu.about",
-    "defaultMessage": "About"
+    "defaultMessage": "About Us"
   },
   {
     "id": "Menu.services",
@@ -33,10 +33,6 @@
   },
   {
     "id": "Menu.afc",
-    "defaultMessage": "AERIAL FIREFLIGHTING CAPABILITY"
-  },
-  {
-    "id": "Menu.contact",
-    "defaultMessage": "Contacts"
+    "defaultMessage": "AERIAL FIREFIGHTING CAPABILITY"
   }
 ]

@@ -11,6 +11,7 @@ import en from "react-intl/locale-data/en";
 import ar from "react-intl/locale-data/ar";
 
 import localeData from "./components/data.json";
+import Menu from "./components/atoms/Menu";
 
 addLocaleData([...en, ...ar]);
 
@@ -33,6 +34,7 @@ const App = props => (
   <IntlProvider locale={language} messages={messages}>
     <Router basename={props.path}>
       <div>
+        <Menu />
         <Header />
         <Route exact path="/" component={Home} />
         <Route path="/home" component={Home} />
