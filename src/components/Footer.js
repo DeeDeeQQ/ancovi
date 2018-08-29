@@ -4,14 +4,17 @@ import { FormattedMessage } from "react-intl";
 
 const Footer = () => (
   <MainFooterDiv>
-    <FormattedMessage id="Footer.about" defaultMessage="Footer" />
+    <FormattedMessage
+      id="Footer.about"
+      defaultMessage="© Ancovi International LLC. 2018."
+    />
   </MainFooterDiv>
 );
 
 export default Footer;
 
 const MainFooterDiv = styled("div")`
-  height: 250px;
+  padding: 20px;
   color: white;
-  background-color: blue;
+  background-color: #dd693d;
 `;
